@@ -2,6 +2,13 @@
 
 __I'm a french student at Epita passionate by new technologies.__
 
-__Actually learning:__ OCaml, Python, C#.
+__Currently working on a six month project with Epita using ASP.NET Core and Windows Presentation Foundation.__
 
-__Working on a six months project with Epita which using ASP.NET Core and Windows Presentation Foundation.__
+__Currently learning:__ Python, C#.
+
+__Mastered languages & Framework:__
+- Javascript/Typescript
+- React Native
+- Adonis JS
+- OCaml
+- PHP
