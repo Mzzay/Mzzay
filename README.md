@@ -6,7 +6,7 @@ __Currently working on a six month project with Epita using ASP.NET Core and Win
 
 __Currently learning:__ Python, C#.
 
-__Mastered languages & Framework:__
+__Mastered languages & Frameworks:__
 - Javascript/Typescript
 - React Native
 - Adonis JS
