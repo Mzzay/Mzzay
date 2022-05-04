@@ -1,14 +1,45 @@
 ### Hi, nice to meet you 👋
 
-__I'm a french student at Epita passionate by new technologies.__
+[<img align="left" alt="Mzzay | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="Mzzay | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
-__Currently working on a six month project with Epita using ASP.NET Core and Windows Presentation Foundation.__
+<br>
+<br>
 
-__Currently learning:__ Python, C#.
+💻 __I'm a french student at Epita passionate by new technologies.__
 
-__Mastered languages & Frameworks:__
-- Javascript/Typescript
-- React Native
-- Adonis JS
-- OCaml
-- PHP
+🔎 __Currently working on a six month project with Epita using ASP.NET Core, Windows Presentation Foundation & Xamarin.Forms.__
+
+__Currently improving:__ Python, C#, Xamarin.Forms, ASP.Net Core.
+
+#### Mastered languages & Frameworks:
+
+![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?sstyle=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
+![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=flat&logo=adonisjs&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Ocaml](https://img.shields.io/badge/ocaml-%23EC6813.svg?&style=flat&logo=ocaml&logoColor=white)
+
+#### UX/UI:
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+#### Utilities:
+
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+
+#### DevOps:
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+
+[linkedin]: https://www.linkedin.com/in/anischtourou
+[gmail]: mailto:anis.cht67@gmail.com
