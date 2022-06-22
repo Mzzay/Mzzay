@@ -10,7 +10,7 @@
 
 🔎 __Ended 5 months project using ASP.NET Core, Windows Presentation Foundation & Xamarin.Forms.__
 
-🔎 __Currently working on something new...__
+💡 __Currently working on something new...__
 
 __Improving:__ Python, C#, Xamarin.Forms, ASP.Net Core, TypeScript.
 
