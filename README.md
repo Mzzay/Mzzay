@@ -8,9 +8,10 @@
 
 💻 __I'm a french student at Epita passionate by new technologies.__
 
-🔎 __Currently working on a six month project with Epita using ASP.NET Core, Windows Presentation Foundation & Xamarin.Forms.__
+🔎 __Ended 5 months project using ASP.NET Core, Windows Presentation Foundation & Xamarin.Forms.__
+🔎 __Currently working on something new...__
 
-__Currently improving:__ Python, C#, Xamarin.Forms, ASP.Net Core.
+__Improving:__ Python, C#, Xamarin.Forms, ASP.Net Core, TypeScript.
 
 #### Mastered languages & Frameworks:
 
