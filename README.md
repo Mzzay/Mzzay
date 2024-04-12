@@ -6,12 +6,5 @@
 <br>
 <br>
 
-💻 __I'm a french student at Epita passionate by new technologies.__
-
-💡 __Currently working on something new...__
-
-__Improving:__ C, TypeScript.
-
-
 [linkedin]: https://www.linkedin.com/in/anischtourou
 [gmail]: mailto:anis.cht67@gmail.com
