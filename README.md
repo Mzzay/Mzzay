@@ -7,4 +7,4 @@
 <br>
 
 [linkedin]: https://www.linkedin.com/in/anischtourou
-[gmail]: mailto:anis.cht67@gmail.com
+[gmail]: mailto:contact@anischt.fr
